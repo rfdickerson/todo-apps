@@ -19,11 +19,11 @@ provides-member:
 - ["P7Cryptor12CryptoDigest", "sha512"]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "CryptoUtils"
-- "Digest"
+- "NSData"
 - "String"
 - "CryptoDigest"
-- "NSData"
+- !private "CryptoUtils"
+- "Digest"
 depends-member:
 - !private ["OC7Cryptor6Digest9Algorithm", "md2"]
 - !private ["OC7Cryptor6Digest9Algorithm", "md4"]

@@ -1,7 +1,0 @@
-version: "Apple Swift version 3.0-dev (LLVM dffa09ffd8, Clang 1e6cba3ce3, Swift d2aee43220)"
-options: "86d076fa99db1372ca9783eaea688d0d"
-build_time: [520032390, 257041000]
-inputs:
-  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Socket-0.5.20/Sources/Socket.swift": [520032362, 0]
-  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Socket-0.5.20/Sources/SocketProtocols.swift": [520032360, 0]
-  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Socket-0.5.20/Sources/SocketUtils.swift": [520032360, 0]

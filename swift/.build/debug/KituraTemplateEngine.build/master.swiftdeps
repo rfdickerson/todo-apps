@@ -1,5 +1,0 @@
-version: "Apple Swift version 3.0-dev (LLVM dffa09ffd8, Clang 1e6cba3ce3, Swift d2aee43220)"
-options: "823cb04aa6ffdfcc637369397e7d048f"
-build_time: [520032390, 256306000]
-inputs:
-  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-TemplateEngine-0.16.0/Sources/KituraTemplateEngine/TemplateEngine.swift": [520032371, 0]
