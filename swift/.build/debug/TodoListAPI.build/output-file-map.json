@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/master.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Sources/TodoListAPI/DatabaseConfiguration.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/DatabaseConfiguration.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/DatabaseConfiguration.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/DatabaseConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/DatabaseConfiguration.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Sources/TodoListAPI/TodoCollectionError.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoCollectionError.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoCollectionError.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoCollectionError~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoCollectionError.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Sources/TodoListAPI/TodoItem.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoItem.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoItem.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoItem.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Sources/TodoListAPI/TodoListAPI.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoListAPI.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoListAPI.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoListAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListAPI.build/TodoListAPI.swiftdeps"
+  }
+}

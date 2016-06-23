@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM dffa09ffd8, Clang 1e6cba3ce3, Swift d2aee43220)"
+options: "79cef0de40a0451f96a03e5744e88d83"
+build_time: [520032671, 143013000]
+inputs:
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-CouchDB-0.16.0/Sources/CouchDBSample/main.swift": [520032669, 0]

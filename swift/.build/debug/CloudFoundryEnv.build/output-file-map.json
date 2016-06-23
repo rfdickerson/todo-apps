@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/master.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CloudFoundryEnv-1.2.1/Sources/CloudFoundryEnv/App.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/App.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/App.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/App~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/App.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CloudFoundryEnv-1.2.1/Sources/CloudFoundryEnv/AppEnv.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/AppEnv.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/AppEnv.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/AppEnv~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/AppEnv.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CloudFoundryEnv-1.2.1/Sources/CloudFoundryEnv/CloudFoundryEnv.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/CloudFoundryEnv.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/CloudFoundryEnv.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/CloudFoundryEnv~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/CloudFoundryEnv.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CloudFoundryEnv-1.2.1/Sources/CloudFoundryEnv/CloudFoundryEnvError.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/CloudFoundryEnvError.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/CloudFoundryEnvError.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/CloudFoundryEnvError~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/CloudFoundryEnvError.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CloudFoundryEnv-1.2.1/Sources/CloudFoundryEnv/DateUtils.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/DateUtils.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/DateUtils.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/DateUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/DateUtils.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CloudFoundryEnv-1.2.1/Sources/CloudFoundryEnv/JSONUtils.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/JSONUtils.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/JSONUtils.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/JSONUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/JSONUtils.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CloudFoundryEnv-1.2.1/Sources/CloudFoundryEnv/Service.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/Service.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/Service.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/Service~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CloudFoundryEnv.build/Service.swiftdeps"
+  }
+}

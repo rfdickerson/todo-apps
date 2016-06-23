@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/master.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Session-0.8.0/Sources/KituraSession/CookieCryptography.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieCryptography.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieCryptography.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieCryptography~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieCryptography.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Session-0.8.0/Sources/KituraSession/CookieManagement.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieManagement.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieManagement.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieManagement~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieManagement.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Session-0.8.0/Sources/KituraSession/CookieParameter.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieParameter.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieParameter.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieParameter~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/CookieParameter.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Session-0.8.0/Sources/KituraSession/InMemoryStore.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/InMemoryStore.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/InMemoryStore.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/InMemoryStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/InMemoryStore.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Session-0.8.0/Sources/KituraSession/RouterRequest+Session.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/RouterRequest+Session.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/RouterRequest+Session.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/RouterRequest+Session~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/RouterRequest+Session.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Session-0.8.0/Sources/KituraSession/Session.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/Session.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/Session.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/Session~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/Session.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Session-0.8.0/Sources/KituraSession/SessionState.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/SessionState.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/SessionState.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/SessionState~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/SessionState.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Session-0.8.0/Sources/KituraSession/Store.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/Store.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/Store.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/Store~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSession.build/Store.swiftdeps"
+  }
+}

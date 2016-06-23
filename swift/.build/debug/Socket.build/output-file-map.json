@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/master.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Socket-0.5.20/Sources/Socket.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/Socket.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/Socket.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/Socket.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Socket-0.5.20/Sources/SocketProtocols.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/SocketProtocols.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/SocketProtocols.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/SocketProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/SocketProtocols.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Socket-0.5.20/Sources/SocketUtils.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/SocketUtils.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/SocketUtils.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/SocketUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.build/SocketUtils.swiftdeps"
+  }
+}

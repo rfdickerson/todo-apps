@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0-dev (LLVM dffa09ffd8, Clang 1e6cba3ce3, Swift d2aee43220)"
+options: "4c270d87510e62ff81b71f4ca215e3bc"
+build_time: [520032671, 143013000]
+inputs:
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Sources/TodoListAPI/DatabaseConfiguration.swift": [520032323, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Sources/TodoListAPI/TodoCollectionError.swift": [520032307, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Sources/TodoListAPI/TodoItem.swift": [520032288, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Sources/TodoListAPI/TodoListAPI.swift": [520032268, 0]

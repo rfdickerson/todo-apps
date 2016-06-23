@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM dffa09ffd8, Clang 1e6cba3ce3, Swift d2aee43220)"
+options: "5b97b2c361e9f102b7c4ad0419c8a8ae"
+build_time: [520032398, 608720000]
+inputs:
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-CredentialsFacebookToken-0.16.0/Sources/CredentialsFacebookToken/CredentialsFacebookToken.swift": [520032376, 0]

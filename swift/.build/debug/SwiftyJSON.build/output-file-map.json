@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/master.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/SwiftyJSON-7.0.4/Source/LclJSONSerialization.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/LclJSONSerialization.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/LclJSONSerialization.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/LclJSONSerialization~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/LclJSONSerialization.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/SwiftyJSON-7.0.4/Source/NSExtension.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/NSExtension.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/NSExtension.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/NSExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/NSExtension.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/SwiftyJSON-7.0.4/Source/SwiftyJSON.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/SwiftyJSON.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/SwiftyJSON.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/SwiftyJSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/SwiftyJSON.build/SwiftyJSON.swiftdeps"
+  }
+}

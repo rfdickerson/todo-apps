@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0-dev (LLVM dffa09ffd8, Clang 1e6cba3ce3, Swift d2aee43220)"
+options: "96bfc60d9eeb4e2cee8704d65e82062e"
+build_time: [520032390, 599302000]
+inputs:
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Sys-0.16.0/Sources/KituraSys/Queue.swift": [520032357, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Sys-0.16.0/Sources/KituraSys/Server.swift": [520032357, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Sys-0.16.0/Sources/KituraSys/StringUtils.swift": [520032356, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-Sys-0.16.0/Sources/KituraSys/SysUtils.swift": [520032356, 0]

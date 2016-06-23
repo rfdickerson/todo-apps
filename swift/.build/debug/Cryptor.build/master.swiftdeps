@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0-dev (LLVM dffa09ffd8, Clang 1e6cba3ce3, Swift d2aee43220)"
+options: "17e3e5d033f42f5be4a3f9811ff0fedf"
+build_time: [520032390, 256413000]
+inputs:
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/Crypto.swift": [520032385, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/Cryptor.swift": [520032384, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/Digest.swift": [520032384, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/HMAC.swift": [520032385, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/KeyDerivation.swift": [520032384, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/Random.swift": [520032384, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/Status.swift": [520032384, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/StreamCryptor.swift": [520032384, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/Updateable.swift": [520032384, 0]
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Cryptor-0.2.5/Sources/Utilities.swift": [520032384, 0]

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListCouchDB.build/master.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Sources/TodoListCouchDB/TodoListCouchDB.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListCouchDB.build/TodoListCouchDB.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListCouchDB.build/TodoListCouchDB.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListCouchDB.build/TodoListCouchDB~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/TodoListCouchDB.build/TodoListCouchDB.swiftdeps"
+  }
+}

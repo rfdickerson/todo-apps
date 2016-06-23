@@ -1,0 +1,362 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HTTP"
+- "HTTPStatusCode"
+provides-nominal:
+- "C9KituraNet4HTTP"
+- "O9KituraNet14HTTPStatusCode"
+provides-member:
+- ["C9KituraNet4HTTP", ""]
+- ["O9KituraNet14HTTPStatusCode", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "FloatLiteralType"
+- "ClientRequestOptions"
+- !private "~="
+- "=="
+- "IntegerLiteralType"
+- "ClientRequestCallback"
+- "Int"
+- "ClientRequest"
+- "Dictionary"
+- "NSCharacterSet"
+- "HTTPServer"
+- "HTTPStatusCode"
+- "HTTP"
+- "String"
+- "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "ClientRequest"]
+- !private ["Ps9AnyObject", "HTTPServer"]
+- ["Ps9AnyObject", "NSCharacterSet"]
+- !private ["Ps9AnyObject", "addingPercentEncoding"]
+- !private ["Ps9AnyObject", "allowedCharacterSet"]
+- !private ["Ps9AnyObject", "end"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "inverted"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps17BitwiseOperations", "Stride"]
+- !private ["Ps17BitwiseOperations", "hashValue"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps7Boolean", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps7CVarArg", "Stride"]
+- !private ["Ps7CVarArg", "addingPercentEncoding"]
+- !private ["Ps7CVarArg", "hashValue"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "inverted"]
+- !private ["C9KituraNet13ClientRequest", "end"]
+- !private ["C9KituraNet13ClientRequest", "init"]
+- !private ["Vs11ClosedRange", "deinit"]
+- ["Ps10Collection", "Key"]
+- ["Ps10Collection", "Value"]
+- !private ["Ps10Comparable", "Stride"]
+- !private ["Ps10Comparable", "addingPercentEncoding"]
+- !private ["Ps10Comparable", "hashValue"]
+- !private ["Vs20CountableClosedRange", "deinit"]
+- !private ["Vs14CountableRange", "deinit"]
+- ["Ps28CustomDebugStringConvertible", "Key"]
+- ["Ps28CustomDebugStringConvertible", "Value"]
+- !private ["Ps28CustomDebugStringConvertible", "addingPercentEncoding"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "inverted"]
+- ["Ps28CustomDebugStringConvertible", "some"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "Stride"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "addingPercentEncoding"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "hashValue"]
+- ["Ps17CustomReflectable", "Key"]
+- !private ["Ps17CustomReflectable", "Stride"]
+- ["Ps17CustomReflectable", "Value"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "addingPercentEncoding"]
+- !private ["Ps17CustomReflectable", "hashValue"]
+- ["Ps17CustomReflectable", "some"]
+- ["Ps23CustomStringConvertible", "Key"]
+- !private ["Ps23CustomStringConvertible", "Stride"]
+- ["Ps23CustomStringConvertible", "Value"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addingPercentEncoding"]
+- !private ["Ps23CustomStringConvertible", "hashValue"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "inverted"]
+- ["Vs10Dictionary", "Key"]
+- ["Vs10Dictionary", "Value"]
+- ["Ps28DictionaryLiteralConvertible", "Key"]
+- ["Ps28DictionaryLiteralConvertible", "Value"]
+- ["Ps9Equatable", "RawValue"]
+- !private ["Ps9Equatable", "Stride"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addingPercentEncoding"]
+- ["Ps9Equatable", "hashValue"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "inverted"]
+- ["Ps9Equatable", "rawValue"]
+- ["Ps9Equatable", ""]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "addingPercentEncoding"]
+- ["C9KituraNet4HTTP", "ClientRequest"]
+- ["C9KituraNet4HTTP", "ClientRequestCallback"]
+- ["C9KituraNet4HTTP", "ClientRequestOptions"]
+- ["C9KituraNet4HTTP", "HTTPServer"]
+- ["C9KituraNet4HTTP", "NSCharacterSet"]
+- ["C9KituraNet4HTTP", "String"]
+- !private ["C9KituraNet4HTTP", "allowedCharacterSet"]
+- ["C9KituraNet4HTTP", "createServer"]
+- ["C9KituraNet4HTTP", "deinit"]
+- ["C9KituraNet4HTTP", "escapeUrl"]
+- ["C9KituraNet4HTTP", "get"]
+- ["C9KituraNet4HTTP", "init"]
+- ["C9KituraNet4HTTP", "request"]
+- ["C9KituraNet4HTTP", "statusCodes"]
+- !private ["C9KituraNet10HTTPServer", "init"]
+- !private ["P9KituraNet21HTTPServerSPIDelegate", "init"]
+- ["O9KituraNet14HTTPStatusCode", "OK"]
+- ["O9KituraNet14HTTPStatusCode", "RawValue"]
+- ["O9KituraNet14HTTPStatusCode", "accepted"]
+- ["O9KituraNet14HTTPStatusCode", "badGateway"]
+- ["O9KituraNet14HTTPStatusCode", "badRequest"]
+- ["O9KituraNet14HTTPStatusCode", "conflict"]
+- ["O9KituraNet14HTTPStatusCode", "continue"]
+- ["O9KituraNet14HTTPStatusCode", "created"]
+- ["O9KituraNet14HTTPStatusCode", "deinit"]
+- ["O9KituraNet14HTTPStatusCode", "expectationFailed"]
+- ["O9KituraNet14HTTPStatusCode", "failedDependency"]
+- ["O9KituraNet14HTTPStatusCode", "forbidden"]
+- ["O9KituraNet14HTTPStatusCode", "gatewayTimeout"]
+- ["O9KituraNet14HTTPStatusCode", "gone"]
+- ["O9KituraNet14HTTPStatusCode", "hashValue"]
+- ["O9KituraNet14HTTPStatusCode", "httpVersionNotSupported"]
+- ["O9KituraNet14HTTPStatusCode", "init"]
+- ["O9KituraNet14HTTPStatusCode", "insufficientSpaceOnResource"]
+- ["O9KituraNet14HTTPStatusCode", "insufficientStorage"]
+- ["O9KituraNet14HTTPStatusCode", "internalServerError"]
+- ["O9KituraNet14HTTPStatusCode", "lengthRequired"]
+- ["O9KituraNet14HTTPStatusCode", "methodFailure"]
+- ["O9KituraNet14HTTPStatusCode", "methodNotAllowed"]
+- ["O9KituraNet14HTTPStatusCode", "movedPermanently"]
+- ["O9KituraNet14HTTPStatusCode", "movedTemporarily"]
+- ["O9KituraNet14HTTPStatusCode", "multiStatus"]
+- ["O9KituraNet14HTTPStatusCode", "multipleChoices"]
+- ["O9KituraNet14HTTPStatusCode", "networkAuthenticationRequired"]
+- ["O9KituraNet14HTTPStatusCode", "noContent"]
+- ["O9KituraNet14HTTPStatusCode", "nonAuthoritativeInformation"]
+- ["O9KituraNet14HTTPStatusCode", "notAcceptable"]
+- ["O9KituraNet14HTTPStatusCode", "notFound"]
+- ["O9KituraNet14HTTPStatusCode", "notImplemented"]
+- ["O9KituraNet14HTTPStatusCode", "notModified"]
+- ["O9KituraNet14HTTPStatusCode", "partialContent"]
+- ["O9KituraNet14HTTPStatusCode", "paymentRequired"]
+- ["O9KituraNet14HTTPStatusCode", "preconditionFailed"]
+- ["O9KituraNet14HTTPStatusCode", "preconditionRequired"]
+- ["O9KituraNet14HTTPStatusCode", "processing"]
+- ["O9KituraNet14HTTPStatusCode", "proxyAuthenticationRequired"]
+- ["O9KituraNet14HTTPStatusCode", "rawValue"]
+- ["O9KituraNet14HTTPStatusCode", "requestHeaderFieldsTooLarge"]
+- ["O9KituraNet14HTTPStatusCode", "requestTimeout"]
+- ["O9KituraNet14HTTPStatusCode", "requestTooLong"]
+- ["O9KituraNet14HTTPStatusCode", "requestURITooLong"]
+- ["O9KituraNet14HTTPStatusCode", "requestedRangeNotSatisfiable"]
+- ["O9KituraNet14HTTPStatusCode", "resetContent"]
+- ["O9KituraNet14HTTPStatusCode", "seeOther"]
+- ["O9KituraNet14HTTPStatusCode", "serviceUnavailable"]
+- ["O9KituraNet14HTTPStatusCode", "switchingProtocols"]
+- ["O9KituraNet14HTTPStatusCode", "temporaryRedirect"]
+- ["O9KituraNet14HTTPStatusCode", "tooManyRequests"]
+- ["O9KituraNet14HTTPStatusCode", "unauthorized"]
+- ["O9KituraNet14HTTPStatusCode", "unknown"]
+- ["O9KituraNet14HTTPStatusCode", "unprocessableEntity"]
+- ["O9KituraNet14HTTPStatusCode", "unsupportedMediaType"]
+- ["O9KituraNet14HTTPStatusCode", "useProxy"]
+- ["Ps8Hashable", "RawValue"]
+- !private ["Ps8Hashable", "Stride"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addingPercentEncoding"]
+- ["Ps8Hashable", "hashValue"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "inverted"]
+- ["Ps8Hashable", "rawValue"]
+- ["Ps8Hashable", ""]
+- ["Ps9Indexable", "Key"]
+- ["Ps9Indexable", "Value"]
+- ["Ps13IndexableBase", "Key"]
+- ["Ps13IndexableBase", "Value"]
+- !private ["Si", "Stride"]
+- !private ["Si", "deinit"]
+- !private ["Si", "hashValue"]
+- !private ["Ps7Integer", "Stride"]
+- !private ["Ps7Integer", "hashValue"]
+- !private ["Ps17IntegerArithmetic", "Stride"]
+- !private ["Ps17IntegerArithmetic", "hashValue"]
+- !private ["Ps25IntegerLiteralConvertible", "Stride"]
+- !private ["Ps25IntegerLiteralConvertible", "hashValue"]
+- !private ["Ps10MirrorPath", "Stride"]
+- !private ["Ps10MirrorPath", "addingPercentEncoding"]
+- !private ["Ps10MirrorPath", "hashValue"]
+- ["CSo14NSCharacterSet", "init"]
+- ["CSo14NSCharacterSet", "inverted"]
+- !private ["PSo8NSCoding", "addingPercentEncoding"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "inverted"]
+- !private ["PSo9NSCopying", "addingPercentEncoding"]
+- ["PSo9NSCopying", "init"]
+- ["PSo9NSCopying", "inverted"]
+- !private ["PSo16NSMutableCopying", "addingPercentEncoding"]
+- ["PSo16NSMutableCopying", "init"]
+- ["PSo16NSMutableCopying", "inverted"]
+- !private ["CSo8NSObject", "addingPercentEncoding"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "inverted"]
+- !private ["PSo16NSObjectProtocol", "addingPercentEncoding"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "inverted"]
+- !private ["PSo14NSSecureCoding", "addingPercentEncoding"]
+- !private ["CSo8NSString", "addingPercentEncoding"]
+- ["Ps21NilLiteralConvertible", "some"]
+- ["Sq", "some"]
+- !private ["Ps12OutputStream", "addingPercentEncoding"]
+- !private ["Vs5Range", "deinit"]
+- ["Ps16RawRepresentable", "RawValue"]
+- ["Ps16RawRepresentable", "hashValue"]
+- ["Ps16RawRepresentable", "init"]
+- ["Ps16RawRepresentable", "rawValue"]
+- ["Ps16RawRepresentable", ""]
+- ["Ps8Sequence", "Key"]
+- ["Ps8Sequence", "Value"]
+- !private ["Ps13SignedInteger", "Stride"]
+- !private ["Ps13SignedInteger", "hashValue"]
+- !private ["Ps12SignedNumber", "Stride"]
+- !private ["Ps12SignedNumber", "hashValue"]
+- !private ["P6Socket12SocketWriter", "end"]
+- !private ["P6Socket12SocketWriter", "init"]
+- !private ["Ps10Streamable", "addingPercentEncoding"]
+- !private ["Ps10Strideable", "Stride"]
+- !private ["Ps10Strideable", "hashValue"]
+- !private ["SS", "addingPercentEncoding"]
+- !private ["Ps30StringInterpolationConvertible", "addingPercentEncoding"]
+- !private ["Ps24StringLiteralConvertible", "addingPercentEncoding"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "addingPercentEncoding"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "addingPercentEncoding"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "Stride"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "hashValue"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "addingPercentEncoding"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "addingPercentEncoding"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "addingPercentEncoding"]
+- !private ["Ps14_Incrementable", "Stride"]
+- !private ["Ps14_Incrementable", "hashValue"]
+- !private ["Ps8_Integer", "Stride"]
+- !private ["Ps8_Integer", "hashValue"]
+- !private ["Ps18_IntegerArithmetic", "Stride"]
+- !private ["Ps18_IntegerArithmetic", "hashValue"]
+- ["Ps21_ObjectiveCBridgeable", "Key"]
+- !private ["Ps21_ObjectiveCBridgeable", "Stride"]
+- ["Ps21_ObjectiveCBridgeable", "Value"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "addingPercentEncoding"]
+- !private ["Ps21_ObjectiveCBridgeable", "hashValue"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+- !private ["Ps14_SignedInteger", "Stride"]
+- !private ["Ps14_SignedInteger", "hashValue"]
+- !private ["Ps11_Strideable", "Stride"]
+- !private ["Ps11_Strideable", "hashValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps17BitwiseOperations"
+- !private "Sb"
+- !private "Ps7Boolean"
+- !private "Ps25BooleanLiteralConvertible"
+- "Ps7CVarArg"
+- !private "C9KituraNet13ClientRequest"
+- !private "Vs11ClosedRange"
+- "Ps10Collection"
+- !private "Ps10Comparable"
+- !private "Vs20CountableClosedRange"
+- !private "Vs14CountableRange"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- "Ps28DictionaryLiteralConvertible"
+- "Ps9Equatable"
+- !private "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- "C9KituraNet4HTTP"
+- !private "C9KituraNet10HTTPServer"
+- !private "P9KituraNet21HTTPServerSPIDelegate"
+- "O9KituraNet14HTTPStatusCode"
+- "Ps8Hashable"
+- "Ps9Indexable"
+- "Ps13IndexableBase"
+- !private "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps25IntegerLiteralConvertible"
+- !private "Ps10MirrorPath"
+- "CSo14NSCharacterSet"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Ps21NilLiteralConvertible"
+- "Sq"
+- !private "Ps12OutputStream"
+- !private "Vs5Range"
+- "Ps16RawRepresentable"
+- "Ps8Sequence"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "P6Socket12SocketWriter"
+- !private "Ps10Streamable"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "Ps30StringInterpolationConvertible"
+- !private "Ps24StringLiteralConvertible"
+- !private "Ps31UnicodeScalarLiteralConvertible"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "Ps33_BuiltinIntegerLiteralConvertible"
+- !private "Ps32_BuiltinStringLiteralConvertible"
+- !private "Ps37_BuiltinUTF16StringLiteralConvertible"
+- !private "Ps39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/Visibility.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/LibcShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/module.map"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/KituraSys.swiftmodule"
+- "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CCurl-0.1.1/shim.h"
+- "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CHttpParser-0.1.1/Sources/CHttpParser/include/module.modulemap"
+- "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CCurl-0.1.1/module.modulemap"
+- "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Socket.swiftmodule"
+- "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/LoggerAPI.swiftmodule"
+- "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CHttpParser-0.1.1/Sources/CHttpParser/include/../utils.h"
+- "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/CHttpParser-0.1.1/Sources/CHttpParser/include/../http_parser.h"
+interface-hash: "8fc3605b947a8c38d7ac5cd70505dd41"

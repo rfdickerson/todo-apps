@@ -1,0 +1,143 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/master.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/Error.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Error.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Error.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Error.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/Headers.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Headers.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Headers.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Headers~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Headers.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/InternalError.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/InternalError.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/InternalError.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/InternalError~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/InternalError.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/Kitura.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Kitura.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Kitura.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Kitura~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Kitura.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/Router.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Router.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Router.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Router.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouteRegex.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouteRegex.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouteRegex.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouteRegex~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouteRegex.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouterElement.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterElement.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterElement.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterElement.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouterElementWalker.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterElementWalker.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterElementWalker.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterElementWalker~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterElementWalker.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouterHandler.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterHandler.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterHandler.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterHandler.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouterMethod.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMethod.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMethod.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMethod.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouterMiddleware.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddleware.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddleware.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddleware.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouterMiddlewareGenerator.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddlewareGenerator.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddlewareGenerator.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddlewareGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddlewareGenerator.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouterMiddlewareWalker.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddlewareWalker.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddlewareWalker.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddlewareWalker~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterMiddlewareWalker.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouterRequest.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterRequest.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterRequest.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterRequest.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/RouterResponse.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterResponse.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterResponse.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/RouterResponse.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/TemplatingError.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/TemplatingError.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/TemplatingError.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/TemplatingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/TemplatingError.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/bodyParser/BodyParser.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/BodyParser.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/bodyParser/BodyParser.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/BodyParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/BodyParser.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/bodyParser/ParsedBody.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/ParsedBody.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/bodyParser/ParsedBody.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/ParsedBody~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/ParsedBody.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/bodyParser/Part.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Part.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/bodyParser/Part.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Part~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/Part.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/contentType/ContentType.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/ContentType.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/contentType/ContentType.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/ContentType~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/ContentType.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/contentType/types.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/types.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/contentType/types.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/types~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/types.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/staticFileServer/ResponseHeadersSetter.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/ResponseHeadersSetter.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/staticFileServer/ResponseHeadersSetter.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/ResponseHeadersSetter~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/ResponseHeadersSetter.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-0.16.1/Sources/Kitura/staticFileServer/StaticFileServer.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/StaticFileServer.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/staticFileServer/StaticFileServer.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/StaticFileServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/Kitura.build/StaticFileServer.swiftdeps"
+  }
+}

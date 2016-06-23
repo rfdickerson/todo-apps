@@ -1,0 +1,275 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CryptoDigest"
+provides-nominal:
+- "P7Cryptor12CryptoDigest"
+- "CSo6NSData"
+- "SS"
+provides-member:
+- ["P7Cryptor12CryptoDigest", ""]
+- ["CSo6NSData", ""]
+- ["SS", ""]
+- ["P7Cryptor12CryptoDigest", "md2"]
+- ["P7Cryptor12CryptoDigest", "md4"]
+- ["P7Cryptor12CryptoDigest", "md5"]
+- ["P7Cryptor12CryptoDigest", "sha1"]
+- ["P7Cryptor12CryptoDigest", "sha224"]
+- ["P7Cryptor12CryptoDigest", "sha256"]
+- ["P7Cryptor12CryptoDigest", "sha384"]
+- ["P7Cryptor12CryptoDigest", "sha512"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "CryptoUtils"
+- "Digest"
+- "String"
+- "CryptoDigest"
+- "NSData"
+depends-member:
+- !private ["OC7Cryptor6Digest9Algorithm", "md2"]
+- !private ["OC7Cryptor6Digest9Algorithm", "md4"]
+- !private ["OC7Cryptor6Digest9Algorithm", "md5"]
+- !private ["OC7Cryptor6Digest9Algorithm", "sha1"]
+- !private ["OC7Cryptor6Digest9Algorithm", "sha224"]
+- !private ["OC7Cryptor6Digest9Algorithm", "sha256"]
+- !private ["OC7Cryptor6Digest9Algorithm", "sha384"]
+- !private ["OC7Cryptor6Digest9Algorithm", "sha512"]
+- ["Ps9AnyObject", "Algorithm"]
+- !private ["Ps9AnyObject", "Digest"]
+- ["Ps9AnyObject", "digest"]
+- !private ["Ps9AnyObject", "final"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "update"]
+- !private ["Sa", "IndexDistance"]
+- !private ["Sa", "count"]
+- !private ["Ps23ArrayLiteralConvertible", "IndexDistance"]
+- !private ["Ps23ArrayLiteralConvertible", "count"]
+- !private ["Ps23BidirectionalCollection", "IndexDistance"]
+- !private ["Ps23BidirectionalCollection", "count"]
+- !private ["Ps22BidirectionalIndexable", "IndexDistance"]
+- !private ["Ps22BidirectionalIndexable", "count"]
+- !private ["Ps7CVarArg", "Digest"]
+- ["Ps7CVarArg", "digest"]
+- !private ["Ps10Collection", "IndexDistance"]
+- !private ["Ps10Collection", "count"]
+- !private ["Ps10Comparable", "CryptoUtils"]
+- !private ["Ps10Comparable", "Digest"]
+- ["Ps10Comparable", "digest"]
+- !private ["P7Cryptor12CryptoDigest", "CryptoUtils"]
+- ["P7Cryptor12CryptoDigest", "Digest"]
+- ["P7Cryptor12CryptoDigest", "Self"]
+- ["P7Cryptor12CryptoDigest", "digest"]
+- ["P7Cryptor12CryptoDigest", "md2"]
+- ["P7Cryptor12CryptoDigest", "md4"]
+- ["P7Cryptor12CryptoDigest", "md5"]
+- ["P7Cryptor12CryptoDigest", "sha1"]
+- ["P7Cryptor12CryptoDigest", "sha224"]
+- ["P7Cryptor12CryptoDigest", "sha256"]
+- ["P7Cryptor12CryptoDigest", "sha384"]
+- ["P7Cryptor12CryptoDigest", "sha512"]
+- ["P7Cryptor12CryptoDigest", ""]
+- !private ["V7Cryptor11CryptoUtils", "hexString"]
+- !private ["Ps28CustomDebugStringConvertible", "CryptoUtils"]
+- !private ["Ps28CustomDebugStringConvertible", "Digest"]
+- !private ["Ps28CustomDebugStringConvertible", "IndexDistance"]
+- !private ["Ps28CustomDebugStringConvertible", "count"]
+- ["Ps28CustomDebugStringConvertible", "digest"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "CryptoUtils"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "Digest"]
+- ["Ps29CustomPlaygroundQuickLookable", "digest"]
+- !private ["Ps17CustomReflectable", "CryptoUtils"]
+- !private ["Ps17CustomReflectable", "Digest"]
+- !private ["Ps17CustomReflectable", "IndexDistance"]
+- !private ["Ps17CustomReflectable", "count"]
+- ["Ps17CustomReflectable", "digest"]
+- !private ["Ps23CustomStringConvertible", "Digest"]
+- !private ["Ps23CustomStringConvertible", "IndexDistance"]
+- !private ["Ps23CustomStringConvertible", "count"]
+- ["Ps23CustomStringConvertible", "digest"]
+- ["C7Cryptor6Digest", "Algorithm"]
+- !private ["C7Cryptor6Digest", "deinit"]
+- !private ["C7Cryptor6Digest", "final"]
+- !private ["C7Cryptor6Digest", "init"]
+- !private ["C7Cryptor6Digest", "update"]
+- !private ["Ps9Equatable", "CryptoUtils"]
+- !private ["Ps9Equatable", "Digest"]
+- ["Ps9Equatable", "digest"]
+- !private ["Ps9Equatable", "md2"]
+- !private ["Ps9Equatable", "md4"]
+- !private ["Ps9Equatable", "md5"]
+- !private ["Ps9Equatable", "sha1"]
+- !private ["Ps9Equatable", "sha224"]
+- !private ["Ps9Equatable", "sha256"]
+- !private ["Ps9Equatable", "sha384"]
+- !private ["Ps9Equatable", "sha512"]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "CryptoUtils"]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "Digest"]
+- ["Ps41ExtendedGraphemeClusterLiteralConvertible", "digest"]
+- !private ["Ps8Hashable", "CryptoUtils"]
+- !private ["Ps8Hashable", "Digest"]
+- ["Ps8Hashable", "digest"]
+- !private ["Ps8Hashable", "md2"]
+- !private ["Ps8Hashable", "md4"]
+- !private ["Ps8Hashable", "md5"]
+- !private ["Ps8Hashable", "sha1"]
+- !private ["Ps8Hashable", "sha224"]
+- !private ["Ps8Hashable", "sha256"]
+- !private ["Ps8Hashable", "sha384"]
+- !private ["Ps8Hashable", "sha512"]
+- !private ["Ps9Indexable", "IndexDistance"]
+- !private ["Ps9Indexable", "count"]
+- !private ["Ps13IndexableBase", "IndexDistance"]
+- !private ["Ps13IndexableBase", "count"]
+- !private ["Ps10MirrorPath", "CryptoUtils"]
+- !private ["Ps10MirrorPath", "Digest"]
+- ["Ps10MirrorPath", "digest"]
+- !private ["Ps17MutableCollection", "IndexDistance"]
+- !private ["Ps17MutableCollection", "count"]
+- !private ["Ps16MutableIndexable", "IndexDistance"]
+- !private ["Ps16MutableIndexable", "count"]
+- !private ["PSo8NSCoding", "Digest"]
+- ["PSo8NSCoding", "digest"]
+- !private ["PSo9NSCopying", "Digest"]
+- ["PSo9NSCopying", "digest"]
+- ["CSo6NSData", "Digest"]
+- ["CSo6NSData", "deinit"]
+- ["CSo6NSData", "digest"]
+- !private ["CSo6NSData", "init"]
+- !private ["PSo16NSMutableCopying", "Digest"]
+- ["PSo16NSMutableCopying", "digest"]
+- ["CSo8NSObject", "Digest"]
+- ["CSo8NSObject", "digest"]
+- !private ["CSo8NSObject", "init"]
+- !private ["PSo16NSObjectProtocol", "Digest"]
+- ["PSo16NSObjectProtocol", "digest"]
+- !private ["PSo14NSSecureCoding", "Digest"]
+- ["PSo14NSSecureCoding", "digest"]
+- !private ["Ps12OutputStream", "CryptoUtils"]
+- !private ["Ps12OutputStream", "Digest"]
+- ["Ps12OutputStream", "digest"]
+- !private ["Ps22RandomAccessCollection", "IndexDistance"]
+- !private ["Ps22RandomAccessCollection", "count"]
+- !private ["Ps21RandomAccessIndexable", "IndexDistance"]
+- !private ["Ps21RandomAccessIndexable", "count"]
+- !private ["Ps26RangeReplaceableCollection", "IndexDistance"]
+- !private ["Ps26RangeReplaceableCollection", "count"]
+- !private ["Ps25RangeReplaceableIndexable", "IndexDistance"]
+- !private ["Ps25RangeReplaceableIndexable", "count"]
+- !private ["Ps8Sequence", "IndexDistance"]
+- !private ["Ps8Sequence", "count"]
+- !private ["Ps10Streamable", "CryptoUtils"]
+- !private ["Ps10Streamable", "Digest"]
+- ["Ps10Streamable", "digest"]
+- !private ["SS", "CryptoUtils"]
+- ["SS", "Digest"]
+- ["SS", "String"]
+- ["SS", "deinit"]
+- ["SS", "digest"]
+- !private ["Ps30StringInterpolationConvertible", "CryptoUtils"]
+- !private ["Ps30StringInterpolationConvertible", "Digest"]
+- ["Ps30StringInterpolationConvertible", "digest"]
+- !private ["Ps24StringLiteralConvertible", "CryptoUtils"]
+- !private ["Ps24StringLiteralConvertible", "Digest"]
+- ["Ps24StringLiteralConvertible", "digest"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "CryptoUtils"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "Digest"]
+- ["Ps31UnicodeScalarLiteralConvertible", "digest"]
+- ["P7Cryptor10Updateable", "Algorithm"]
+- !private ["P7Cryptor10Updateable", "final"]
+- !private ["P7Cryptor10Updateable", "init"]
+- !private ["P7Cryptor10Updateable", "update"]
+- !private ["Ps14_ArrayProtocol", "IndexDistance"]
+- !private ["Ps14_ArrayProtocol", "count"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "CryptoUtils"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "Digest"]
+- ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "digest"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "CryptoUtils"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "Digest"]
+- ["Ps32_BuiltinStringLiteralConvertible", "digest"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "CryptoUtils"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "Digest"]
+- ["Ps37_BuiltinUTF16StringLiteralConvertible", "digest"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "CryptoUtils"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "Digest"]
+- ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "digest"]
+- !private ["Ps24_DestructorSafeContainer", "IndexDistance"]
+- !private ["Ps24_DestructorSafeContainer", "count"]
+- !private ["Ps21_ObjectiveCBridgeable", "CryptoUtils"]
+- !private ["Ps21_ObjectiveCBridgeable", "Digest"]
+- !private ["Ps21_ObjectiveCBridgeable", "IndexDistance"]
+- !private ["Ps21_ObjectiveCBridgeable", "count"]
+- ["Ps21_ObjectiveCBridgeable", "digest"]
+depends-nominal:
+- !private "OC7Cryptor6Digest9Algorithm"
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23ArrayLiteralConvertible"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps10Comparable"
+- "P7Cryptor12CryptoDigest"
+- !private "V7Cryptor11CryptoUtils"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "C7Cryptor6Digest"
+- "Ps9Equatable"
+- "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo6NSData"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "Ps12OutputStream"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "Ps8Sequence"
+- "Ps10Streamable"
+- "SS"
+- "Ps30StringInterpolationConvertible"
+- "Ps24StringLiteralConvertible"
+- "Ps31UnicodeScalarLiteralConvertible"
+- "P7Cryptor10Updateable"
+- !private "Ps14_ArrayProtocol"
+- "Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- "Ps32_BuiltinStringLiteralConvertible"
+- "Ps37_BuiltinUTF16StringLiteralConvertible"
+- "Ps39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "Ps24_DestructorSafeContainer"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/Visibility.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/LibcShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/shims/module.map"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+interface-hash: "006a17ea4d9d0d0c3768953074b155eb"

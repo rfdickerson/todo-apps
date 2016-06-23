@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CouchDBSample.build/master.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/Kitura-CouchDB-0.16.0/Sources/CouchDBSample/main.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CouchDBSample.build/main.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CouchDBSample.build/main.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CouchDBSample.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/CouchDBSample.build/main.swiftdeps"
+  }
+}

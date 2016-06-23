@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM dffa09ffd8, Clang 1e6cba3ce3, Swift d2aee43220)"
+options: "a12e17f02e42b17a09eecbc3d99fbda0"
+build_time: [520032390, 599302000]
+inputs:
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/HeliumLogger-0.8.0/Sources/HeliumLogger/HeliumLogger.swift": [520032373, 0]

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/LoggerAPI.build/master.swiftdeps"
+  },
+  "/Users/Robert/swift-at-ibm/todo-apps/swift/Packages/LoggerAPI-0.8.0/Sources/LoggerAPI/Logger.swift": {
+    "dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/LoggerAPI.build/Logger.d",
+    "object": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/LoggerAPI.build/Logger.swift.o",
+    "swiftmodule": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/LoggerAPI.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/Robert/swift-at-ibm/todo-apps/swift/.build/debug/LoggerAPI.build/Logger.swiftdeps"
+  }
+}
