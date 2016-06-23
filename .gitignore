@@ -111,3 +111,6 @@ swift/.build/debug/TodoListAPI.build/TodoListAPI~partial.swiftmodule
 swift/.build/debug/TodoListCouchDB.build/TodoListCouchDB.swiftdeps
 swift/.build/debug/Cryptor.build/Utilities.swiftdeps
 swift/.build/debug/TodoListAPI.build/TodoItem.swift.o
+swift/KituraTodoList.xcodeproj/project.pbxproj
+swift/KituraTodoList.xcodeproj/project.xcworkspace/xcuserdata/Robert.xcuserdatad/UserInterfaceState.xcuserstate
+swift/KituraTodoList.xcodeproj/xcuserdata/Robert.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
