@@ -13,7 +13,7 @@ var app = app || {};
 		// Reference to this collection's model.
 		model: app.Todo,
 
-		url: 'api/todos',
+		url: 'http://localhost:8090/api/todos',
 
 		// Filter down the list of all todo items that are finished.
 		completed: function () {
